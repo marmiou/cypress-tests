@@ -1,4 +1,4 @@
-# schx-automation
+# Cypress Automation 
 <h1 align="center">Web Automation with Cypress</h1>
 
 ## Links
@@ -12,7 +12,7 @@
 ## Installation
 
 Clone repo from github:
-#### `git clone git@github.com:marmiou/schx-automation.git`
+#### `git clone git@github.com:marmiou/cypress-tests.git`
 
 To install it:
 
